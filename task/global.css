@@ -1,0 +1,18 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: 600;
+}
+
+h2 {
+    font-size: 24px;
+    font-weight: 400;
+}
+
+h3, button {
+    font-size: 16px;
+    font-weight: 400;
+}
